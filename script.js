@@ -29,7 +29,7 @@ function clearDisplay() {
 
 alert("welcome to the Calculator ;)");
 
-function calculate() {
+
   console.log("Calculate function called.");
   const display = document.getElementById("display");
   try {
