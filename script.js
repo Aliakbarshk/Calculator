@@ -32,6 +32,6 @@ function calculate() {
     const result = eval(display.value);
     display.value = result;
   } catch (error) {
-    display.value = "😤kuch bhi😡";
+    display.value = "⚠️Error⚠️";
   }
 }
