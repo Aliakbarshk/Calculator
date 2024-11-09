@@ -25,10 +25,6 @@ function clearDisplay() {
 //         display.value = "error"
 //     }
 
-// }
-
-alert("welcome to the Calculator ;)");
-
 
   console.log("Calculate function called.");
   const display = document.getElementById("display");
