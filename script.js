@@ -25,7 +25,7 @@ function clearDisplay() {
 //         display.value = "error"
 //     }
 
-
+function calculate() {
   console.log("Calculate function called.");
   const display = document.getElementById("display");
   try {
